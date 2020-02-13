@@ -180,7 +180,7 @@ Text GLabel 7400 3050 0    50   Input ~ 0
 DC
 Text GLabel 4450 750  0    50   Input ~ 0
 DC
-Text GLabel 8550 800  0    50   Input ~ 0
+Text GLabel 8550 1000 0    50   Input ~ 0
 DC
 $Comp
 L Connector:Screw_Terminal_01x03 S1
@@ -349,7 +349,7 @@ $EndComp
 Text GLabel 8550 1400 0    50   Input ~ 0
 GND
 Wire Notes Line
-	8350 500  8350 2550
+	8350 700  8350 2750
 $Comp
 L Device:R_US R1
 U 1 1 5D9A604A

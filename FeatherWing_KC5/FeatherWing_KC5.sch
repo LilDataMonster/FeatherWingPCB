@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:FeatherWing_KC5-cache
 EELAYER 30 0
 EELAYER END
 $Descr USLetter 11000 8500
@@ -356,7 +355,7 @@ U 1 1 5D9A604A
 P 7400 3200
 F 0 "R1" H 7468 3246 50  0000 L CNN
 F 1 "4.7k" H 7468 3155 50  0000 L CNN
-F 2 "Resistor_SMD:R_1806_4516Metric_Pad1.57x1.80mm_HandSolder" V 7440 3190 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 7440 3190 50  0001 C CNN
 F 3 "~" H 7400 3200 50  0001 C CNN
 	1    7400 3200
 	1    0    0    -1  
