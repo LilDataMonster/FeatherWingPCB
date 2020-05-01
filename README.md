@@ -2,7 +2,9 @@ The `FeatherWing_KC5` directory of this repository contains a
 [KiCad][1] 5 [template][4] for making [FeatherWing][2] boards.
 
 Since Adafruit does not provide standardized names for the GPIO pins,
-I came up with [my own scheme][3] that numbers the digital pins F0-F6.
+I found these online.
+
+The PCB has been printed and fits with Feathers.
 
 ## License
 
@@ -19,3 +21,6 @@ are not bound by the attribution and share-alike conditions.
 [10]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 # FeatherWingPCB
 
+Allows up to 10 DS18B20 temperature sensors to be connected to a Feather via A0.
+
+Assumes use of 2.54mm terminal blocks as well as a 4.7k resistor
