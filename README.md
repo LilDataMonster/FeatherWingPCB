@@ -18,4 +18,4 @@ are not bound by the attribution and share-alike conditions.
 [9]: https://forum.kicad.info/t/kicad-library-licensing/7856
 [10]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 # FeatherWingPCB
-# FeatherWingPCB
+
